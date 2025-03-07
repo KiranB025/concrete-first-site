@@ -1,12 +1,12 @@
 <?php 
 /* Cachekey: cache/stash_default/doctrine/[concrete\core\entity\express\manytooneassociation][1]/ */
 /* Type: array */
-/* Expiration: 2025-03-11T11:57:31+02:00 */
+/* Expiration: 2025-03-12T03:05:21+02:00 */
 
 
 
 $loaded = true;
-$expiration = 1741687051;
+$expiration = 1741741521;
 
 $data = array();
 
@@ -20,4 +20,4 @@ $data['return'] = array (
 );
 
 /* Child Type: integer */
-$data['createdOn'] = 1741268448;
+$data['createdOn'] = 1741355637;

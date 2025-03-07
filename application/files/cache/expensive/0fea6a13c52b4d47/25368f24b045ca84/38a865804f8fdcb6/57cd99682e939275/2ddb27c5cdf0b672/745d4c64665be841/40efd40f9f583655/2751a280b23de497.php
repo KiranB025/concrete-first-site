@@ -1,12 +1,12 @@
 <?php 
 /* Cachekey: cache/stash_default/doctrine/[concrete\core\entity\notification\groupsignuprequestdeclinenotification][1]/ */
 /* Type: array */
-/* Expiration: 2025-03-11T10:21:09+02:00 */
+/* Expiration: 2025-03-12T14:50:01+02:00 */
 
 
 
 $loaded = true;
-$expiration = 1741681269;
+$expiration = 1741783801;
 
 $data = array();
 
@@ -30,4 +30,4 @@ $data['return'] = array (
 );
 
 /* Child Type: integer */
-$data['createdOn'] = 1741268459;
+$data['createdOn'] = 1741355638;

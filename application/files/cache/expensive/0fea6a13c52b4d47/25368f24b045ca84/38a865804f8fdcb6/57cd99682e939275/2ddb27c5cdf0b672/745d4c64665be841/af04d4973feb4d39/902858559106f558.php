@@ -1,12 +1,12 @@
 <?php 
 /* Cachekey: cache/stash_default/doctrine/[concrete\core\entity\notification\newprivatemessagenotification][1]/ */
 /* Type: array */
-/* Expiration: 2025-03-11T12:54:45+02:00 */
+/* Expiration: 2025-03-12T10:50:59+02:00 */
 
 
 
 $loaded = true;
-$expiration = 1741690485;
+$expiration = 1741769459;
 
 $data = array();
 
@@ -30,4 +30,4 @@ $data['return'] = array (
 );
 
 /* Child Type: integer */
-$data['createdOn'] = 1741268459;
+$data['createdOn'] = 1741355638;

@@ -1,12 +1,12 @@
 <?php 
 /* Cachekey: cache/stash_default/doctrine/[concrete\core\entity\user\grouprolechange][1]/ */
 /* Type: array */
-/* Expiration: 2025-03-11T04:16:36+02:00 */
+/* Expiration: 2025-03-12T02:55:36+02:00 */
 
 
 
 $loaded = true;
-$expiration = 1741659396;
+$expiration = 1741740936;
 
 $data = array();
 
@@ -30,4 +30,4 @@ $data['return'] = array (
 );
 
 /* Child Type: integer */
-$data['createdOn'] = 1741268441;
+$data['createdOn'] = 1741355636;

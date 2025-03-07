@@ -1,12 +1,12 @@
 <?php 
 /* Cachekey: cache/stash_default/doctrine/[concrete\core\entity\user\user$ignoredipmismatches][1]/ */
 /* Type: array */
-/* Expiration: 2025-03-11T04:52:33+02:00 */
+/* Expiration: 2025-03-12T13:41:10+02:00 */
 
 
 
 $loaded = true;
-$expiration = 1741661553;
+$expiration = 1741779670;
 
 $data = array();
 
@@ -33,4 +33,4 @@ $data['return'] = array (
 );
 
 /* Child Type: integer */
-$data['createdOn'] = 1741268522;
+$data['createdOn'] = 1741350615;

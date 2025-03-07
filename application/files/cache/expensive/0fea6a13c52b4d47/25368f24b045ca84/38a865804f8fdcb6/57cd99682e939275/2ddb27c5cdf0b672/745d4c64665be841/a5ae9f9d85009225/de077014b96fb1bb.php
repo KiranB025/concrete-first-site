@@ -1,12 +1,12 @@
 <?php 
 /* Cachekey: cache/stash_default/doctrine/[concrete\core\entity\notification\grouprolechangenotification][1]/ */
 /* Type: array */
-/* Expiration: 2025-03-11T08:07:42+02:00 */
+/* Expiration: 2025-03-11T22:40:17+02:00 */
 
 
 
 $loaded = true;
-$expiration = 1741673262;
+$expiration = 1741725617;
 
 $data = array();
 
@@ -30,4 +30,4 @@ $data['return'] = array (
 );
 
 /* Child Type: integer */
-$data['createdOn'] = 1741268458;
+$data['createdOn'] = 1741355638;

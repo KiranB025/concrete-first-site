@@ -1,12 +1,12 @@
 <?php 
 /* Cachekey: cache/stash_default/doctrine/[concrete\core\entity\permission\ipaccesscontrolrange][1]/ */
 /* Type: array */
-/* Expiration: 2025-03-11T01:02:44+02:00 */
+/* Expiration: 2025-03-11T22:36:22+02:00 */
 
 
 
 $loaded = true;
-$expiration = 1741647764;
+$expiration = 1741725382;
 
 $data = array();
 
@@ -46,4 +46,4 @@ $data['return'] = array (
 );
 
 /* Child Type: integer */
-$data['createdOn'] = 1741268462;
+$data['createdOn'] = 1741355639;

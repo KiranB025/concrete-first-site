@@ -1,12 +1,12 @@
 <?php 
 /* Cachekey: cache/stash_default/doctrine/[concrete\core\entity\board\boardpermissionassignment][1]/ */
 /* Type: array */
-/* Expiration: 2025-03-11T11:57:51+02:00 */
+/* Expiration: 2025-03-12T08:22:25+02:00 */
 
 
 
 $loaded = true;
-$expiration = 1741687071;
+$expiration = 1741760545;
 
 $data = array();
 
@@ -54,4 +54,4 @@ $data['return'] = array (
 );
 
 /* Child Type: integer */
-$data['createdOn'] = 1741268454;
+$data['createdOn'] = 1741355638;

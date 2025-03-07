@@ -1,12 +1,12 @@
 <?php 
 /* Cachekey: cache/stash_default/doctrine/[concrete\core\entity\notification\notificationalert][1]/ */
 /* Type: array */
-/* Expiration: 2025-03-11T10:19:23+02:00 */
+/* Expiration: 2025-03-12T02:06:04+02:00 */
 
 
 
 $loaded = true;
-$expiration = 1741681163;
+$expiration = 1741737964;
 
 $data = array();
 
@@ -30,4 +30,4 @@ $data['return'] = array (
 );
 
 /* Child Type: integer */
-$data['createdOn'] = 1741268458;
+$data['createdOn'] = 1741355638;

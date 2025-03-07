@@ -1,12 +1,12 @@
 <?php 
 /* Cachekey: cache/stash_default/doctrine/[concrete\core\entity\design\designtag][1]/ */
 /* Type: array */
-/* Expiration: 2025-03-11T00:36:35+02:00 */
+/* Expiration: 2025-03-12T08:27:25+02:00 */
 
 
 
 $loaded = true;
-$expiration = 1741646195;
+$expiration = 1741760845;
 
 $data = array();
 
@@ -30,4 +30,4 @@ $data['return'] = array (
 );
 
 /* Child Type: integer */
-$data['createdOn'] = 1741268468;
+$data['createdOn'] = 1741356471;

@@ -1,12 +1,12 @@
 <?php 
 /* Cachekey: cache/stash_default/doctrine/[concrete\core\entity\automation\task$id][1]/ */
 /* Type: array */
-/* Expiration: 2025-03-11T06:41:20+02:00 */
+/* Expiration: 2025-03-12T13:37:25+02:00 */
 
 
 
 $loaded = true;
-$expiration = 1741668080;
+$expiration = 1741779445;
 
 $data = array();
 
@@ -41,4 +41,4 @@ $data['return'] = array (
 );
 
 /* Child Type: integer */
-$data['createdOn'] = 1741268523;
+$data['createdOn'] = 1741350615;

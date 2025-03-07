@@ -1485,137 +1485,93 @@
 	
 	<!-- start footer -->
 	<footer id="footer" class="footer">
-		<div class="container">
-			<div class="row">	
-				<div class="footer-top clearfix">
-					<div class="col-sm-4">
-						<div class="columnbottom-margin subscribe-form-wrap">
-							<h4 class="widget-title">Subscribe <span>NewsLetter</span></h4>
-							<p>By subscribing to our mailing list you will always get latest news from us.</p>
-							<!-- start mailchimp form -->
-							<div class="mc-form-holder">
-								<form id="mc-form">
-									<input id="mc-email" class="form-control" placeholder="email address" name="EMAIL" type="email">
-									<button class="btn" type="submit"><i class="fa fa-paper-plane"></i></button>
-									<label for="mc-email"></label>
-								</form>
-							</div>
-							<!-- end mailchimp form -->
-						</div><!-- end subscribe-form-wrap -->
-					</div><!-- end col -->
-					<div class="col-sm-4">
-						<div class="columnbottom-margin recent-work-wrap">
-							<h4 class="widget-title">Recent <span>Work</span></h4>
-							<div class="latest-pfolio">
-								<div class="col-xs-4 no-space">
-									<div class="portfolio-wrapper">
-										<img src="<?= $view->getThemePath(); ?>/images/portfolio/thumb/3.jpg" alt="Portfolio Title">
-										<div class="portfolio-overlay">
-											<div class="portfolio-overlay-inner">
-												<div class="portfolio-overlay-content">
-													<div class="portfolio-link">
-														<a title="Details" href="<?= $view->getThemePath(); ?>/single-portfolio.html"><i class="fa fa-link"></i></a>
-														<a data-lightbox="recentwork" data-title="Image Preview" href="<?= $view->getThemePath(); ?>/images/portfolio/3.jpg"><i class="fa fa-search-plus"></i></a>
-													</div><!--End portfolio-link -->
-												</div><!--End portfolio-overlay-content -->
-											</div><!--End portfolio-overlay-inner -->
-										</div><!--End portfolio-overlay -->
-									</div><!--End portfolio-wrapper -->
-								</div><!--End ./col- -->
-								<div class="col-xs-4 no-space">
-									<div class="portfolio-wrapper">
-										<img src="<?= $view->getThemePath(); ?>/images/portfolio/thumb/6.jpg" alt="Portfolio Title">
-										<div class="portfolio-overlay">
-											<div class="portfolio-overlay-inner">
-												<div class="portfolio-overlay-content">
-													<div class="portfolio-link">
-														<a title="Details" href="<?= $view->getThemePath(); ?>/single-portfolio.html"><i class="fa fa-link"></i></a>
-														<a data-lightbox="recentwork" data-title="Image Preview" href="<?= $view->getThemePath(); ?>/images/portfolio/6.jpg"><i class="fa fa-search-plus"></i></a>
-													</div><!--End portfolio-link -->
-												</div><!--End portfolio-overlay-content -->
-											</div><!--End portfolio-overlay-inner -->
-										</div><!--End portfolio-overlay -->
-									</div><!--End portfolio-wrapper -->
-								</div><!--End ./col- -->
-								<div class="col-xs-4 no-space">
-									<div class="portfolio-wrapper">
-										<img src="<?= $view->getThemePath(); ?>/images/portfolio/thumb/4.jpg" alt="Portfolio Title">
-										<div class="portfolio-overlay">
-											<div class="portfolio-overlay-inner">
-												<div class="portfolio-overlay-content">
-													<div class="portfolio-link">
-														<a title="Details" href="<?= $view->getThemePath(); ?>/single-portfolio.html"><i class="fa fa-link"></i></a>
-														<a data-lightbox="recentwork" data-title="Image Preview" href="<?= $view->getThemePath(); ?>/images/portfolio/4.jpg"><i class="fa fa-search-plus"></i></a>
-													</div><!--End portfolio-link -->
-												</div><!--End portfolio-overlay-content -->
-											</div><!--End portfolio-overlay-inner -->
-										</div><!--End portfolio-overlay -->
-									</div><!--End portfolio-wrapper -->
-								</div><!--End ./col- -->
-							</div><!--End latest-portfolio -->   
-							<div class="clearfix"></div>
-						</div><!-- end recent-work-wrap -->
-					</div><!-- end col -->
-					<div class="col-sm-4">
-						<div class="columnbottom-margin contact-info-wrap">
-							<h4 class="widget-title">Contact <span>Details</span></h4>
-							<ul class="contact-info list-unstyled">
-								<li><i class="fa fa-home"></i> 70 Trent Rd, Luton LU3 1TA, UK</li>
-								<li><i class="fa fa-phone"></i> <a href="tel:000-0000-0000">000 0000 0000</a></li>
-								<li><i class="fa fa-envelope"></i> <a href="mailto:sales@yourwebsite.com">sales@yourwebsite.com</a></li>
-							</ul><!-- end contact-info  -->
-							
-							<ul class="list-inline list-social clearfix">
-								<li>
-									<a href="#" class="social-icon social-icon-small social-icon-facebook">
-										<i class="fa fa-facebook"></i>
-										<i class="fa fa-facebook"></i>
-									</a>
-								</li>
-								<li>
-									<a href="#" class="social-icon social-icon-small social-icon-twitter">
-										<i class="fa fa-twitter"></i>
-										<i class="fa fa-twitter"></i>
-									</a>
-								</li>
-								<li>
-									<a href="#" class="social-icon social-icon-small social-icon-gplus">
-										<i class="fa fa-google-plus"></i>
-										<i class="fa fa-google-plus"></i>
-									</a>
-								</li>
-								<li>
-									<a href="#" class="social-icon social-icon-small social-icon-vimeo">
-										<i class="fa fa-vimeo"></i>
-										<i class="fa fa-vimeo"></i>
-									</a>
-								</li>
-								<li>
-									<a href="#" class="social-icon social-icon-small social-icon-pinterest">
-										<i class="fa fa-pinterest"></i>
-										<i class="fa fa-pinterest"></i>
-									</a>
-								</li>
-								<li>
-									<a href="#" class="social-icon social-icon-small social-icon-linkedin">
-										<i class="fa fa-linkedin"></i>
-										<i class="fa fa-linkedin"></i>
-									</a>
-								</li>
-							</ul><!-- end list-social -->
-						</div><!-- end contact-info-wrap -->
-					</div><!-- end col -->
-				</div><!-- end footer-top  --> 
-			</div><!-- end row --> 
-			<hr>
-			<div class="row">					
-				<div class="col-sm-12">
-					<a href="#" class="footer-logo-link"><img class="footer-logo" src="<?= $view->getThemePath(); ?>/images/footer-logo.png" alt="Steve"></a>
-					<p class="text-center copyright">&copy; 2019 <a href="https://1.envato.market/kPy00" class="footer-site-link">MGScoder</a> All rights reserved. <a href="https://1.envato.market/7B3dY" class="footer-site-link">Buy AboutMe HTML Template</a></p>
-				</div><!-- end col --> 
-			</div><!-- end row --> 
-		</div><!-- end container --> 
-	</footer>
+    <div class="container">
+        <div class="row">
+            <div class="footer-top clearfix">
+                <div class="col-sm-4">
+                    <div class="columnbottom-margin subscribe-form-wrap">
+                        <h4 class="widget-title">Subscribe <span>NewsLetter</span></h4>
+                        <p>By subscribing to our mailing list you will always get latest news from us.</p>
+                        <div class="mc-form-holder">
+                            <form id="mc-form">
+                                <input id="mc-email" class="form-control" placeholder="email address" name="EMAIL" type="email">
+                                <button class="btn" type="submit"><i class="fa fa-paper-plane"></i></button>
+                                <label for="mc-email"></label>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="columnbottom-margin recent-work-wrap">
+                        <h4 class="widget-title">Recent <span>Work</span></h4>
+                        <div class="latest-pfolio">
+                            <?php for ($i = 1; $i <= 3; $i++): ?>
+                                <div class="col-xs-4 no-space">
+                                    <div class="portfolio-wrapper">
+                                        <img src="<?= $view->getThemePath(); ?>/images/portfolio/thumb/<?= $i ?>.jpg" alt="Portfolio Title">
+                                        <div class="portfolio-overlay">
+                                            <div class="portfolio-overlay-inner">
+                                                <div class="portfolio-overlay-content">
+                                                    <div class="portfolio-link">
+                                                        <a title="Details" href="<?= $view->getThemePath(); ?>/single-portfolio.html"><i class="fa fa-link"></i></a>
+                                                        <a data-lightbox="recentwork" data-title="Image Preview" href="<?= $view->getThemePath(); ?>/images/portfolio/<?= $i ?>.jpg"><i class="fa fa-search-plus"></i></a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            <?php endfor; ?>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="columnbottom-margin contact-info-wrap">
+                        <h4 class="widget-title">Contact <span>Details</span></h4>
+                        <ul class="contact-info list-unstyled">
+                            <li><i class="fa fa-home"></i> 70 Trent Rd, Luton LU3 1TA, UK</li>
+                            <li><i class="fa fa-phone"></i> <a href="tel:000-0000-0000">000 0000 0000</a></li>
+                            <li><i class="fa fa-envelope"></i> <a href="mailto:sales@yourwebsite.com">sales@yourwebsite.com</a></li>
+                        </ul>
+                        <ul class="list-inline list-social clearfix">
+                            <?php
+                            $socialLinks = [
+                                'facebook' => 'fa-facebook',
+                                'twitter' => 'fa-twitter',
+                                'google-plus' => 'fa-google-plus',
+                                'vimeo' => 'fa-vimeo',
+                                'pinterest' => 'fa-pinterest',
+                                'linkedin' => 'fa-linkedin'
+                            ];
+                            foreach ($socialLinks as $platform => $icon):
+                            ?>
+                                <li>
+                                    <a href="#" class="social-icon social-icon-small social-icon-<?=$platform ?>">
+                                        <i class="fa <?= $icon ?>"></i>
+                                        <i class="fa <?= $icon ?>"></i>
+                                    </a>
+                                </li>
+                            <?php endforeach; ?>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <hr>
+        <div class="row">
+		<div class="col-sm-12">   
+        <a href="#" class="footer-logo-link">
+            <img class="footer-logo" src="<?= $view-> getThemePath(); ?>/images/footer-logo.png"  alt="Site Logo">
+        </a>   
+    <p class="text-center copyright">&copy; <?= date('Y') ?> <a href="https://1.envato.market/kPy00" class="footer-site-link">MGScoder</a> All rights reserved. <a href="https://1.envato.market/7B3dY" class="footer-site-link">Buy AboutMe HTML Template</a></p>
+</div>
+
+
+</div>
+
+    </div>
+</footer>
+
 	<!-- end footer -->
 	
 	<a href="#" class="scrollup"><i class="fa fa-arrow-circle-up"></i></a>

@@ -1,12 +1,12 @@
 <?php 
 /* Cachekey: cache/stash_default/doctrine/[concrete\core\entity\command\batch$pendingjobs][1]/ */
 /* Type: array */
-/* Expiration: 2025-03-11T08:17:00+02:00 */
+/* Expiration: 2025-03-11T22:20:56+02:00 */
 
 
 
 $loaded = true;
-$expiration = 1741673820;
+$expiration = 1741724456;
 
 $data = array();
 
@@ -33,4 +33,4 @@ $data['return'] = array (
 );
 
 /* Child Type: integer */
-$data['createdOn'] = 1741268511;
+$data['createdOn'] = 1741350614;
