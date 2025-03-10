@@ -1,12 +1,12 @@
 <?php 
 /* Cachekey: cache/stash_default/doctrine/[concrete\core\entity\page\relation\siblingrelation][1]/ */
 /* Type: array */
-/* Expiration: 2025-03-12T15:36:15+02:00 */
+/* Expiration: 2025-03-15T10:21:57+02:00 */
 
 
 
 $loaded = true;
-$expiration = 1741786575;
+$expiration = 1742026917;
 
 $data = array();
 
@@ -30,4 +30,4 @@ $data['return'] = array (
 );
 
 /* Child Type: integer */
-$data['createdOn'] = 1741355641;
+$data['createdOn'] = 1741612137;

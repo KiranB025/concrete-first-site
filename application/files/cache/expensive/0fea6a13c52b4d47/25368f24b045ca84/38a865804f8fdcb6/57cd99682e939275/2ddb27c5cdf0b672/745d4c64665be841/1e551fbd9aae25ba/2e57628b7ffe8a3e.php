@@ -1,12 +1,12 @@
 <?php 
 /* Cachekey: cache/stash_default/doctrine/[concrete\core\entity\sharing\socialnetwork\link$site][1]/ */
 /* Type: array */
-/* Expiration: 2025-03-12T00:06:48+02:00 */
+/* Expiration: 2025-03-15T01:44:25+02:00 */
 
 
 
 $loaded = true;
-$expiration = 1741730808;
+$expiration = 1741995865;
 
 $data = array();
 
@@ -35,4 +35,4 @@ $data['return'] = array (
 );
 
 /* Child Type: integer */
-$data['createdOn'] = 1741356482;
+$data['createdOn'] = 1741612130;

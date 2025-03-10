@@ -1,12 +1,12 @@
 <?php 
 /* Cachekey: cache/stash_default/doctrine/[concrete\core\entity\attribute\value\value\value$avid][1]/ */
 /* Type: array */
-/* Expiration: 2025-03-12T09:23:58+02:00 */
+/* Expiration: 2025-03-15T03:15:52+02:00 */
 
 
 
 $loaded = true;
-$expiration = 1741764238;
+$expiration = 1742001352;
 
 $data = array();
 
@@ -41,4 +41,4 @@ $data['return'] = array (
 );
 
 /* Child Type: integer */
-$data['createdOn'] = 1741350612;
+$data['createdOn'] = 1741612072;

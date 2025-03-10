@@ -1,12 +1,12 @@
 <?php 
 /* Cachekey: cache/stash_default/doctrine/[concrete\core\entity\site\locale$mspluralcases][1]/ */
 /* Type: array */
-/* Expiration: 2025-03-12T06:21:36+02:00 */
+/* Expiration: 2025-03-14T23:18:23+02:00 */
 
 
 
 $loaded = true;
-$expiration = 1741753296;
+$expiration = 1741987103;
 
 $data = array();
 
@@ -33,4 +33,4 @@ $data['return'] = array (
 );
 
 /* Child Type: integer */
-$data['createdOn'] = 1741350605;
+$data['createdOn'] = 1741612064;

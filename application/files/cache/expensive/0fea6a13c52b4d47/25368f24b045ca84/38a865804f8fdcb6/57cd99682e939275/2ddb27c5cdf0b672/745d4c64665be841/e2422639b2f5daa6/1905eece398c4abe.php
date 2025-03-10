@@ -1,12 +1,12 @@
 <?php 
 /* Cachekey: cache/stash_default/doctrine/[concrete\core\entity\notification\newconversationmessagenotification][1]/ */
 /* Type: array */
-/* Expiration: 2025-03-11T22:28:36+02:00 */
+/* Expiration: 2025-03-15T10:28:47+02:00 */
 
 
 
 $loaded = true;
-$expiration = 1741724916;
+$expiration = 1742027327;
 
 $data = array();
 
@@ -30,4 +30,4 @@ $data['return'] = array (
 );
 
 /* Child Type: integer */
-$data['createdOn'] = 1741355638;
+$data['createdOn'] = 1741612135;

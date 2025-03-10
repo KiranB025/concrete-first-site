@@ -1,12 +1,12 @@
 <?php 
 /* Cachekey: cache/stash_default/doctrine/[concrete\core\entity\user\user$uhasavatar][1]/ */
 /* Type: array */
-/* Expiration: 2025-03-12T10:57:15+02:00 */
+/* Expiration: 2025-03-15T09:49:27+02:00 */
 
 
 
 $loaded = true;
-$expiration = 1741769835;
+$expiration = 1742024967;
 
 $data = array();
 
@@ -33,4 +33,4 @@ $data['return'] = array (
 );
 
 /* Child Type: integer */
-$data['createdOn'] = 1741350615;
+$data['createdOn'] = 1741612074;

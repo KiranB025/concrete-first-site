@@ -1,12 +1,12 @@
 <?php 
 /* Cachekey: cache/stash_default/doctrine/[concrete\core\entity\health\report\warningfinding][1]/ */
 /* Type: array */
-/* Expiration: 2025-03-12T01:02:45+02:00 */
+/* Expiration: 2025-03-15T09:52:11+02:00 */
 
 
 
 $loaded = true;
-$expiration = 1741734165;
+$expiration = 1742025131;
 
 $data = array();
 
@@ -42,4 +42,4 @@ $data['return'] = array (
 );
 
 /* Child Type: integer */
-$data['createdOn'] = 1741355639;
+$data['createdOn'] = 1741612135;

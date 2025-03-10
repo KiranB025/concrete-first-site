@@ -1,12 +1,12 @@
 <?php 
 /* Cachekey: cache/stash_default/doctrine/[concrete\core\entity\file\image\thumbnail\type\type$ftsaveareabackgroundcolor][1]/ */
 /* Type: array */
-/* Expiration: 2025-03-12T07:09:00+02:00 */
+/* Expiration: 2025-03-15T03:42:08+02:00 */
 
 
 
 $loaded = true;
-$expiration = 1741756140;
+$expiration = 1742002928;
 
 $data = array();
 
@@ -33,4 +33,4 @@ $data['return'] = array (
 );
 
 /* Child Type: integer */
-$data['createdOn'] = 1741355701;
+$data['createdOn'] = 1741612123;

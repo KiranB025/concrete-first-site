@@ -1,12 +1,12 @@
 <?php 
 /* Cachekey: cache/stash_default/doctrine/[concrete\core\entity\geolocator][1]/ */
 /* Type: array */
-/* Expiration: 2025-03-11T22:25:20+02:00 */
+/* Expiration: 2025-03-14T21:31:54+02:00 */
 
 
 
 $loaded = true;
-$expiration = 1741724720;
+$expiration = 1741980714;
 
 $data = array();
 
@@ -31,4 +31,4 @@ $data['return'] = array (
 );
 
 /* Child Type: integer */
-$data['createdOn'] = 1741355637;
+$data['createdOn'] = 1741612134;

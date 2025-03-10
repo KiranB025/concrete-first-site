@@ -1,12 +1,12 @@
 <?php 
 /* Cachekey: cache/stash_default/doctrine/[concrete\core\entity\notification\groupsignupnotification][1]/ */
 /* Type: array */
-/* Expiration: 2025-03-12T11:56:25+02:00 */
+/* Expiration: 2025-03-15T13:58:44+02:00 */
 
 
 
 $loaded = true;
-$expiration = 1741773385;
+$expiration = 1742039924;
 
 $data = array();
 
@@ -30,4 +30,4 @@ $data['return'] = array (
 );
 
 /* Child Type: integer */
-$data['createdOn'] = 1741355638;
+$data['createdOn'] = 1741612135;

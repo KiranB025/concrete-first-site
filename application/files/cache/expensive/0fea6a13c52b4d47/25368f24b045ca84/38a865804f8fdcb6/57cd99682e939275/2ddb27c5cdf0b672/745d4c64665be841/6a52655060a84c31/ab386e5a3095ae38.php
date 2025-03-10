@@ -1,12 +1,12 @@
 <?php 
 /* Cachekey: cache/stash_default/doctrine/[concrete\core\entity\package$pkgdateinstalled][1]/ */
 /* Type: array */
-/* Expiration: 2025-03-12T12:39:32+02:00 */
+/* Expiration: 2025-03-15T04:00:07+02:00 */
 
 
 
 $loaded = true;
-$expiration = 1741775972;
+$expiration = 1742004007;
 
 $data = array();
 
@@ -33,4 +33,4 @@ $data['return'] = array (
 );
 
 /* Child Type: integer */
-$data['createdOn'] = 1741350603;
+$data['createdOn'] = 1741612063;

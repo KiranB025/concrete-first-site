@@ -1,12 +1,12 @@
 <?php 
 /* Cachekey: cache/stash_default/doctrine/[concrete\core\entity\calendar\calendareventoccurrence][1]/ */
 /* Type: array */
-/* Expiration: 2025-03-12T06:43:26+02:00 */
+/* Expiration: 2025-03-15T06:08:29+02:00 */
 
 
 
 $loaded = true;
-$expiration = 1741754606;
+$expiration = 1742011709;
 
 $data = array();
 
@@ -45,4 +45,4 @@ $data['return'] = array (
 );
 
 /* Child Type: integer */
-$data['createdOn'] = 1741355639;
+$data['createdOn'] = 1741612136;

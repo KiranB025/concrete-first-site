@@ -1,12 +1,12 @@
 <?php 
 /* Cachekey: cache/stash_default/doctrine/[concrete\core\entity\file\image\thumbnail\type\typefileset$ftfsfilesetid][1]/ */
 /* Type: array */
-/* Expiration: 2025-03-12T11:48:19+02:00 */
+/* Expiration: 2025-03-15T07:22:30+02:00 */
 
 
 
 $loaded = true;
-$expiration = 1741772899;
+$expiration = 1742016150;
 
 $data = array();
 
@@ -37,4 +37,4 @@ $data['return'] = array (
 );
 
 /* Child Type: integer */
-$data['createdOn'] = 1741355701;
+$data['createdOn'] = 1741612123;

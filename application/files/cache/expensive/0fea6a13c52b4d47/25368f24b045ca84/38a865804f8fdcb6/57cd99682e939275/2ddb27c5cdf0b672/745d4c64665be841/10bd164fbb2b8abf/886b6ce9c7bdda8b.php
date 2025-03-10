@@ -1,12 +1,12 @@
 <?php 
 /* Cachekey: cache/stash_default/doctrine/[concrete\core\entity\express\control\associationcontrol$enable_entry_reordering][1]/ */
 /* Type: array */
-/* Expiration: 2025-03-12T05:50:53+02:00 */
+/* Expiration: 2025-03-15T04:11:45+02:00 */
 
 
 
 $loaded = true;
-$expiration = 1741751453;
+$expiration = 1742004705;
 
 $data = array();
 
@@ -33,4 +33,4 @@ $data['return'] = array (
 );
 
 /* Child Type: integer */
-$data['createdOn'] = 1741355642;
+$data['createdOn'] = 1741612139;

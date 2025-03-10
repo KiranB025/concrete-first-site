@@ -1,12 +1,12 @@
 <?php 
 /* Cachekey: cache/stash_default/doctrine/[concrete\core\entity\file\folder\favoritefolder$treenodefolderid][1]/ */
 /* Type: array */
-/* Expiration: 2025-03-12T10:47:08+02:00 */
+/* Expiration: 2025-03-15T14:27:57+02:00 */
 
 
 
 $loaded = true;
-$expiration = 1741769228;
+$expiration = 1742041677;
 
 $data = array();
 
@@ -37,4 +37,4 @@ $data['return'] = array (
 );
 
 /* Child Type: integer */
-$data['createdOn'] = 1741355691;
+$data['createdOn'] = 1741614943;

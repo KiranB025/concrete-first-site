@@ -1,12 +1,12 @@
 <?php 
 /* Cachekey: cache/stash_default/doctrine/[concrete\core\entity\attribute\value\value\sociallinksvalue][1]/ */
 /* Type: array */
-/* Expiration: 2025-03-12T14:08:09+02:00 */
+/* Expiration: 2025-03-14T21:44:43+02:00 */
 
 
 
 $loaded = true;
-$expiration = 1741781289;
+$expiration = 1741981483;
 
 $data = array();
 
@@ -30,4 +30,4 @@ $data['return'] = array (
 );
 
 /* Child Type: integer */
-$data['createdOn'] = 1741355640;
+$data['createdOn'] = 1741612137;

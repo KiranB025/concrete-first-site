@@ -1,12 +1,12 @@
 <?php 
 /* Cachekey: cache/stash_default/doctrine/[concrete\core\entity\block\blocktype\blocktype$btcopywhenpropagate][1]/ */
 /* Type: array */
-/* Expiration: 2025-03-12T01:48:16+02:00 */
+/* Expiration: 2025-03-14T23:34:14+02:00 */
 
 
 
 $loaded = true;
-$expiration = 1741736896;
+$expiration = 1741988054;
 
 $data = array();
 
@@ -33,4 +33,4 @@ $data['return'] = array (
 );
 
 /* Child Type: integer */
-$data['createdOn'] = 1741350692;
+$data['createdOn'] = 1741612116;

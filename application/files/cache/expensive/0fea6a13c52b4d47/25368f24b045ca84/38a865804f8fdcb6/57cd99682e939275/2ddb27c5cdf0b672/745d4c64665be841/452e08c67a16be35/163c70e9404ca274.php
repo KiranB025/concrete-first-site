@@ -1,12 +1,12 @@
 <?php 
 /* Cachekey: cache/stash_default/doctrine/[concrete\core\entity\block\blocktype\blocktype$btignorepagethemegridframeworkcontainer][1]/ */
 /* Type: array */
-/* Expiration: 2025-03-12T09:53:08+02:00 */
+/* Expiration: 2025-03-15T12:33:13+02:00 */
 
 
 
 $loaded = true;
-$expiration = 1741765988;
+$expiration = 1742034793;
 
 $data = array();
 
@@ -33,4 +33,4 @@ $data['return'] = array (
 );
 
 /* Child Type: integer */
-$data['createdOn'] = 1741350691;
+$data['createdOn'] = 1741612116;

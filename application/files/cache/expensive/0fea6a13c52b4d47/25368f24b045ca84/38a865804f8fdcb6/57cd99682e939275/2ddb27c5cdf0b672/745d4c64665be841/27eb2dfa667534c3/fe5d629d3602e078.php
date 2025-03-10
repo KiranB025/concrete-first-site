@@ -1,12 +1,12 @@
 <?php 
 /* Cachekey: cache/stash_default/doctrine/[concrete\core\entity\board\slottemplate][1]/ */
 /* Type: array */
-/* Expiration: 2025-03-12T00:29:32+02:00 */
+/* Expiration: 2025-03-15T13:45:16+02:00 */
 
 
 
 $loaded = true;
-$expiration = 1741732172;
+$expiration = 1742039116;
 
 $data = array();
 
@@ -30,4 +30,4 @@ $data['return'] = array (
 );
 
 /* Child Type: integer */
-$data['createdOn'] = 1741356471;
+$data['createdOn'] = 1741612134;

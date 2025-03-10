@@ -1,12 +1,12 @@
 <?php 
 /* Cachekey: cache/stash_default/doctrine/[concrete\core\entity\file\file$foverridesetpermissions][1]/ */
 /* Type: array */
-/* Expiration: 2025-03-12T09:13:00+02:00 */
+/* Expiration: 2025-03-15T04:45:48+02:00 */
 
 
 
 $loaded = true;
-$expiration = 1741763580;
+$expiration = 1742006748;
 
 $data = array();
 
@@ -33,4 +33,4 @@ $data['return'] = array (
 );
 
 /* Child Type: integer */
-$data['createdOn'] = 1741355699;
+$data['createdOn'] = 1741612119;

@@ -1,12 +1,12 @@
 <?php 
 /* Cachekey: cache/stash_default/doctrine/[concrete\core\entity\page\theme\customskin$author][1]/ */
 /* Type: array */
-/* Expiration: 2025-03-12T01:44:00+02:00 */
+/* Expiration: 2025-03-15T04:48:48+02:00 */
 
 
 
 $loaded = true;
-$expiration = 1741736640;
+$expiration = 1742006928;
 
 $data = array();
 
@@ -35,4 +35,4 @@ $data['return'] = array (
 );
 
 /* Child Type: integer */
-$data['createdOn'] = 1741356480;
+$data['createdOn'] = 1741612119;

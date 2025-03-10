@@ -1,12 +1,12 @@
 <?php 
 /* Cachekey: cache/stash_default/doctrine/[concrete\core\entity\site\locale$mslanguage][1]/ */
 /* Type: array */
-/* Expiration: 2025-03-12T13:12:28+02:00 */
+/* Expiration: 2025-03-15T02:11:04+02:00 */
 
 
 
 $loaded = true;
-$expiration = 1741777948;
+$expiration = 1741997464;
 
 $data = array();
 
@@ -33,4 +33,4 @@ $data['return'] = array (
 );
 
 /* Child Type: integer */
-$data['createdOn'] = 1741350604;
+$data['createdOn'] = 1741612064;

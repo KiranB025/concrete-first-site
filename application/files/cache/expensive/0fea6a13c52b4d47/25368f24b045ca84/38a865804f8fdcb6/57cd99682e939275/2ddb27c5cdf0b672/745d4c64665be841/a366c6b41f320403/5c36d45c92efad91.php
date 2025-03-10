@@ -1,12 +1,12 @@
 <?php 
 /* Cachekey: cache/stash_default/doctrine/[concrete\core\entity\search\savedpagesearch][1]/ */
 /* Type: array */
-/* Expiration: 2025-03-12T05:15:11+02:00 */
+/* Expiration: 2025-03-15T13:56:51+02:00 */
 
 
 
 $loaded = true;
-$expiration = 1741749311;
+$expiration = 1742039811;
 
 $data = array();
 
@@ -30,4 +30,4 @@ $data['return'] = array (
 );
 
 /* Child Type: integer */
-$data['createdOn'] = 1741355637;
+$data['createdOn'] = 1741612133;

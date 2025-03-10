@@ -1,12 +1,12 @@
 <?php 
 /* Cachekey: cache/stash_default/doctrine/[concrete\core\entity\page\pagepath$ppiscanonical][1]/ */
 /* Type: array */
-/* Expiration: 2025-03-11T22:47:40+02:00 */
+/* Expiration: 2025-03-15T04:19:06+02:00 */
 
 
 
 $loaded = true;
-$expiration = 1741726060;
+$expiration = 1742005146;
 
 $data = array();
 
@@ -33,4 +33,4 @@ $data['return'] = array (
 );
 
 /* Child Type: integer */
-$data['createdOn'] = 1741350692;
+$data['createdOn'] = 1741612166;
